@@ -1,11 +1,5 @@
 # git
 
-dsfasdf
-sadf
-sadf
-asdf
-asdf
-asdfasdfsadfasdfasdfasdf
 
 
 
